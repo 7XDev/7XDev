@@ -4,7 +4,6 @@
 #### I'm a Software-Engineering Student based in Linz, Austria.
 
 - 🏢 I'm currently studying Software Engineering at **HTL Leonding**
-- ⚙️ I learn/use: `.cs`, `.py`, `.html`, `.js`, `.css`
+- ⚙️ I learn/use: `.cs`, `.c`, `.py`, `.html`, `.js`, `.css`
 - 💜 Interests: Cybersecurity
-- 😄 Passionate about Authentication-Systems
-- 🔨 Working on Zylex
+- 🔨 Learning...
