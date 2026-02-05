@@ -1,6 +1,6 @@
-### Hi, I'm Florian 👋
-I'm a 15 year old student located in Leonding, Austria
-
+Hi, I'm Florian 👋
+----------------------------------------------------------
+### I'm a 15 year old student located in Leonding, Austria
 I've been following coding tutorials since the age of 12 but didn't learn how to really code until I was nearly 15 as it took me a bit to find a good way to start learning. By the end of my education, I hope to secure a rewarding job in Software Engineering, as it is a lifelong passion of mine. I enjoy creating things and find great satisfaction when others genuinely use and appreciate the end product. 
 
 # Tech Stack:
