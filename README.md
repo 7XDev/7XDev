@@ -12,4 +12,4 @@ I've been following coding tutorials since the age of 12 but didn't learn how to
 </a>
 
 # GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MarkusHarnusek&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=7XDev&theme=dark&hide_border=true)<br/>
